@@ -1,0 +1,17 @@
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.AssemblyInfoInputs.cache
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.AssemblyInfo.cs
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.csproj.CoreCompileInputs.cache
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\SnuggleHub_Shelter2.exe
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\SnuggleHub_Shelter2.deps.json
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\SnuggleHub_Shelter2.runtimeconfig.json
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\SnuggleHub_Shelter2.dll
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\SnuggleHub_Shelter2.pdb
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\bin\Debug\net6.0\HtmlAgilityPack.dll
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.csproj.AssemblyReference.cache
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.csproj.CopyComplete
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.dll
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\refint\SnuggleHub_Shelter2.dll
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.pdb
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\SnuggleHub_Shelter2.genruntimeconfig.cache
+C:\Users\jhack\source\repos\SnuggleHub_Shelter2\SnuggleHub_Shelter2\obj\Debug\net6.0\ref\SnuggleHub_Shelter2.dll
